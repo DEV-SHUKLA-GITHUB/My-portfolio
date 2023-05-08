@@ -40,8 +40,8 @@ export const Projects = () => {
     },
     {
       title: "Quiz app",
-      liveLink: "https://moonshot-outlook-clone-1212.netlify.app/",
-      codeLink: "https://github.com/DEV-SHUKLA-GITHUB/moonshot-project",
+      liveLink: "https://kwiz-app-1212.netlify.app/",
+      codeLink: "https://github.com/DEV-SHUKLA-GITHUB/Quiz-App-Project",
       imgUrl: QuizImg,
     },
     {
